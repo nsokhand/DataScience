@@ -1,2 +1,2 @@
 # datasciencecoursera
-Projects related to Coursera Data Science 
+Projects related to Coursera Data Science course
